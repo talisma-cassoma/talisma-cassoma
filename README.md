@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <!--
 **talisma-cassoma/talisma-cassoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Talisma Cassoma</h1>
 <h3 align="center">A junior Web Developer focused on getting better on my stack</h3>
