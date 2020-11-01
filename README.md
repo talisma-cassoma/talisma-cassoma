@@ -1,7 +1,7 @@
 <!--
 **talisma-cassoma/talisma-cassoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1 align="center">Hi there 👋, I'm Talisma Cassoma</h1>
+<h1 align="center">Hey there 👋, I'm Talisma Cassoma</h1>
 <h3 align="center">A junior Web Developer focused on getting better on my stack[Node :: React :: Reat native]</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
 
