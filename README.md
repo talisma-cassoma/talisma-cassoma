@@ -5,10 +5,7 @@
 <h3 align="center">A junior Web Developer focused on getting better on my stack[Node :: React :: Reat native]</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
 
-- technology, enthusiastic student of programming and electronics, explorer, researcher of new experiences and new challenges, I present my profile on which you will find several projects that have been created by me, in particular in c, c ++, JavaScript and electronics programming in general, I'll let you discover some.
-Do not hesitate to access it by clicking on the links displayed on the profile!
-please see my projects
-Contact me!
+- technology, enthusiastic student of programming and electronics, explorer, researcher of new experiences and new challenges, I present my profile on which you will find several projects that have been created by me, in particular in c, c ++, JavaScript and electronics programming in general
 
 - 💬 suding **JavaScript, HTML, CSS, SQL**
 
