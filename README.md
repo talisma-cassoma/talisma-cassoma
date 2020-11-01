@@ -7,7 +7,7 @@
 
 - technology, enthusiastic student of programming and electronics, explorer, researcher of new experiences and new challenges, I present my profile on which you will find several projects that have been created by me, in particular in c, c ++, JavaScript and electronics programming in general
 
--📜 suding **JavaScript, HTML, CSS, C++, C ,SQL**
+- 📜 suding **JavaScript, HTML, CSS, C++, C ,SQL**
 
 - 📫 How to reach me **talisma63@gmail.com**
 
