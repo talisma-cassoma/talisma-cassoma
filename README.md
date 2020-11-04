@@ -4,9 +4,6 @@
 <h1 align="center">Hey there 👋, I'm Talisma Cassoma</h1>
 <h3 align="center">A junior Web Developer focused on getting better on my stack[Nodejs :: React :: React Native]</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
-
-- I present you my profile on which you will find several projects that have been created by me, in particular in c, c ++ And JavaScript 
-
 - 📖 suding **JavaScript, HTML, CSS, C++, C ,SQL**
 
 - 📫 How to reach me **talisma63@gmail.com**
