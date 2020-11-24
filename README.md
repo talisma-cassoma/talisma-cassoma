@@ -10,8 +10,6 @@
 - reach me on **talisma63@gmail.com**
 
 <p align="center">
-
-<p align="center">
 <a href="https://www.linkedin.com/in/talisma-manuel-88ba571b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Talisma" height="20" width="20" /></a>
 <a href="https://www.facebook.com/talisma.cassoma.79462815/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="talisma" height="20" width="20" /></a>
 <a href="https://www.instagram.com/mr.cassoma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="talisma" height="20" width="20" /></a>
