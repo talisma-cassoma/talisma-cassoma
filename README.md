@@ -2,7 +2,7 @@
 **talisma-cassoma/talisma-cassoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hey there 👋, I'm Talisma Cassoma</h1>
-<p align="center"><h3>
+<p><h3 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=talisma-cassoma&theme=gruvbox&show_icons=true" alt="talisma"/> 
 </p></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
