@@ -1,10 +1,8 @@
 <!--
 **talisma-cassoma/talisma-cassoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<img src="react.png" align="right" width="300">
 <h1 align="center">Hey there 👋, I'm Talisma Cassoma</h1>
-<p><h3 align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talisma-cassoma&theme=gruvbox&show_icons=true" alt="talisma"/> 
-</p></h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
 
 - reach me on **talisma63@gmail.com**
