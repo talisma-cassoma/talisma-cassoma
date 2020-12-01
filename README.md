@@ -3,6 +3,10 @@
 <img src="react.png" align="right" width="300">
 <h1 align="center">Hey there 👋, I'm Talisma Cassoma</h1>
 
+Passionné par la technologie , étudiant enthousiaste de programmation et électronique , explorateur, chercheur des nouvelles expériences et nouveaux défis, je vous presente mon profil sur lequel vous allez retrouver plusieurs projets ayant été crée par moi notamment en programmation c, c++, JavaScript et électronique en générale, je vous laisse en découvrir .
+veuillez consulter mon GitHub
+Contactez-moi! 
+
 - reach me on **talisma63@gmail.com**
 
 <p align="center">
