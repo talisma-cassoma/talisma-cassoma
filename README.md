@@ -1,6 +1,6 @@
 <!--
 **talisma-cassoma/talisma-cassoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="react.png" align="right" width="300">
+<img src="me.png" align="right" width="300">
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Talisma Cassoma</h1>
 
 Passionné par la technologie , étudiant enthousiaste de programmation et électronique , explorateur, chercheur des nouvelles expériences et nouveaux défis, je vous presente mon profil sur lequel vous allez retrouver plusieurs projets ayant été crée par moi notamment en programmation c, c++, JavaScript et électronique en générale, je vous laisse en découvrir .
@@ -10,9 +10,6 @@ Contactez-moi!
 
 - reach me on **talisma63@gmail.com**
 
-<p align="left">
-<img src="me.png" width="300">
-</p>
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
