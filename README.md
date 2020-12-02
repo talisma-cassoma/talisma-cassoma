@@ -10,7 +10,7 @@ Contactez-moi!
 
 - reach me on **talisma63@gmail.com**
 
-<img src="images/react.png" align="left" width="300">
+<img src="images/react.png" align="left" width="300"><br>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -18,7 +18,7 @@ Contactez-moi!
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-</p><br>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/talisma-manuel-88ba571b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Talisma" height="20" width="20" /></a>
