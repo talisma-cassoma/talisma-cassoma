@@ -10,7 +10,7 @@ Contactez-moi!
 
 - reach me on **talisma63@gmail.com**
 
-
+<img src="images/react.png" align="left" width="300">
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
