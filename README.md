@@ -2,7 +2,8 @@
 **talisma-cassoma/talisma-cassoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img src="images/me.png" align="right" width="300">
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Talisma Cassoma</h1>
-Bienvenue a mon petit monde,je vous presente mon profil sur lequel vous allez retrouver plusieurs projets ayant été crée par moi notamment en programmation c, c++, JavaScript et électronique en générale, je vous laisse en découvrir.
+<p align="left">
+  Bienvenue a mon petit monde,je vous presente mon profil sur lequel vous allez retrouver plusieurs projets ayant été crée par moi notamment en programmation c, c++, JavaScript et électronique en générale, je vous laisse en découvrir.</p>
 
 Contactez-moi! 
 
