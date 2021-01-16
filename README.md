@@ -11,7 +11,7 @@ Contactez-moi!
 - reach me on **talisma63@gmail.com**
 <p> If need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong></p>
 
-<img src="images/react.png" align="left" width="300"><br>
+<!--img src="images/react.png" align="left" width="300"><br-->
 <p align="center">
 <p align="center">
 --this is what i'm studing now--
