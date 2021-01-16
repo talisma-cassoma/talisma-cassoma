@@ -17,7 +17,7 @@ Contactez-moi!
 --this is what i'm studing now--
 </p>
 <p align="center">
-<images src="images/bots.png">                                         
+<img src="images/bots.png">                                         
 </p>
 
 <p align="center">
