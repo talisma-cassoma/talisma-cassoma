@@ -12,10 +12,6 @@ Contactez-moi!
 <p> If need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong></p>
 
 <!--img src="images/react.png" align="left" width="300"><br-->
-<p align="center">
-<p align="center">
---this is what i'm studing now--
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/talisma-manuel-88ba571b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Talisma" height="20" width="20" /></a>
@@ -23,4 +19,4 @@ Contactez-moi!
 <a href="https://www.instagram.com/mr.cassoma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="talisma" height="20" width="20" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
-</p>
+
