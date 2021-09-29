@@ -5,10 +5,10 @@
 <p align="left">
  Welcome to my little world, It's a regular guy who loves programming, my profile is all about what i'am learning in my dialy researches. I'm focused on machine learning</p>
 
-🤔what else...ahm oui, je parle français aussi! 
+let me see what else...ahm oui, je parle français aussi! 
 
 
-reach me on **talisma63@gmail.com**
+reach me on talisma63@gmail.com
 <p> If you need maybe a <strong>Embedded Software Develloper</strong> or a <strong>Fullstack Develloper</strong><br> </p><a href='https://www.linkedin.com/in/talisma-manuel-88ba571b2/' target='_blank'>send me a message 💬</a>
 
 </p>
