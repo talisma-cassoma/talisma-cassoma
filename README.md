@@ -9,14 +9,8 @@ Contactez-moi!
 
 
 reach me on **talisma63@gmail.com**
-<p> If you need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong></p> send me a message  <a href='https://wa.me/27722840005' target='_blank'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Talisma" height="20" width="20" /</a>
+<p> If you need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong> </p><a href='https://wa.me/27722840005' target='_blank'>send me a message 💬</a>
 
-<!--img src="images/react.png" align="left" width="300"><br-->
-
-<p>
-<a href="https://www.linkedin.com/in/talisma-manuel-88ba571b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Talisma" height="20" width="20" /></a>
-<a href="https://www.facebook.com/talisma.cassoma.79462815/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="talisma" height="20" width="20" /></a>
-<a href="https://www.instagram.com/mr.cassoma/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="talisma" height="20" width="20" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
 
