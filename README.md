@@ -9,7 +9,7 @@ Coucou...Bah oui, je parle français aussi!
 
 
 reach me on **talisma63@gmail.com**
-<p> If you need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong> </p><a href='https://wa.me/27722840005' target='_blank'>send me a message 💬</a>
+<p> If you need maybe a <strong>Embedded Software Develloper</strong> or a <strong>Fullstack Develloper</strong><br> </p><a href='https://wa.me/27722840005' target='_blank'>send me a message 💬</a>
 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
