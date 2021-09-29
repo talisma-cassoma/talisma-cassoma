@@ -9,7 +9,7 @@ Contactez-moi!
 
 
 reach me on **talisma63@gmail.com**
-<p> If you need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong></p>
+<p> If you need maybe a <strong>Fullstack Develloper</strong><br> or a <strong>Embedded Software Develloper</strong></p> send me a message 
 
 <!--img src="images/react.png" align="left" width="300"><br-->
 
