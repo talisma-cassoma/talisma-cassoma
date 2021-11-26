@@ -3,7 +3,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I'm Talisma Cassoma</h1>
 <img src="images/me.png" align="right" width="250">
 <p align="left">
- Welcome to my little world, It's a regular guy who loves programming, my profile is all about what i'am learning in my dialy researches. I'm focused on machine learning and electronic.</p>
+ Welcome to my little world, It's a regular guy who loves programming, my profile is all about what i'am learning in my dialy researches. I'm focused on machine learning & electronic.</p>
 
 let me see what else...ahm oui, je parle français aussi! 
 
