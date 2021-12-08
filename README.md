@@ -5,7 +5,7 @@
 <p align="left">
  Welcome to my little world, It's a regular guy who loves programming, my profile is all about what i'am learning in my dialy researches. I'm focused on machine learning & electronic.</p>
 
-let me see what else...ahm oui, je parle français aussi! 
+let me see what else...ahm oui, je parle français et portugais aussi! 
 
 
 reach me on talisma63@gmail.com
