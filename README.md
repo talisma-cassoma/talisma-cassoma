@@ -9,7 +9,7 @@ let me see what else...ahm oui, je parle français et portugais aussi!
 
 
 reach me on talisma63@gmail.com
-<p> If you need maybe a <strong>Embedded Software Develloper</strong> or a <strong> </p><a href='https://www.linkedin.com/in/talisma-manuel-88ba571b2/' target='_blank'>send me a message 💬</a>
+<p> If you need maybe a <strong>Embedded Software Develloper</strong> or just talk about robotics<strong> </p><a href='https://www.linkedin.com/in/talisma-manuel-88ba571b2/' target='_blank'>send me a message 💬</a>
 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talisma-cassoma" alt="taisma" /> </p>
