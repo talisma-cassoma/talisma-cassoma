@@ -8,7 +8,7 @@
 let me see what else...ahm oui, je parle français et portugais aussi! 
 
 
-reach me on talismacassoma.manuel@uit.ac.ma
+reach me on talismacassoma.manuel@uit.ac.ma or talisma63@gmail.com
 <p> If you need maybe a <strong>Embedded Software Develloper</strong> or just talk about robotics<strong> </p><a href='https://www.linkedin.com/in/talisma-manuel-88ba571b2/' target='_blank'>send me a message 💬</a>
 
 </p>
